@@ -12,7 +12,7 @@ Windows Service uses SnmpSharpNet to collect the counter data from the printers 
 The User interface to view counters collected of the customers, search in customers, add customers etc.
 
 4. Config Tool
-There are only 2 settings only. First is the txt file that keeps the ip addresses that is used by windows service and the customer Id.
+There are 2 settings only. First is the txt file that keeps the ip addresses that is used by windows service and the customer Id.
 
 ou need to change the webconfig file with your own connection string.
 
