@@ -1,0 +1,9 @@
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\bin\Debug\ConfigTool.exe
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\bin\Debug\ConfigTool.pdb
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.csprojResolveAssemblyReference.cache
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.Form1.resources
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.Properties.Resources.resources
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.csproj.GenerateResource.cache
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.csproj.CoreCompileInputs.cache
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.exe
+C:\Users\emrah.sumer\source\repos\CounterApi\ConfigTool\obj\Debug\ConfigTool.pdb
