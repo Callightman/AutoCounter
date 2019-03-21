@@ -5,8 +5,7 @@ This git has 4 projects
 The windows service sends the counters collected via Post and it saves it to database using Entity Framework.
 The react app gets the counters and customers via Get
 2. Windows Service
-Windows Service uses SnmpSharpNet to collect the counter data from the printers with snmp and post the counters and status(online-offline) of the printer
-to web api. 
+Windows Service uses SnmpSharpNet to collect the counter data from the printers with snmp and post the counters and status(online-offline) of the printer to web api. 
 3.React Ui
 The User interface to view counters collected of the customers, search in customers, add customers etc.
 4. Config Tool
