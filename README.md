@@ -14,4 +14,4 @@ The User interface to view counters collected of the customers, search in custom
 
 You need to change the webconfig file with your own connection string.
 
-The project is for learning purposes only
+The project is for learning purposes only so i excluded the node modules etc.
