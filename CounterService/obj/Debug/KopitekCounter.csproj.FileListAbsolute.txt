@@ -1,0 +1,13 @@
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\bin\Debug\KopitekCounter.exe
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\bin\Debug\KopitekCounter.pdb
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\bin\Debug\SnmpSharpNet.dll
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\bin\Debug\System.Net.Http.dll
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\bin\Debug\System.Net.Http.xml
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.csprojResolveAssemblyReference.cache
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.ProjectInstaller.resources
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.Service1.resources
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.csproj.GenerateResource.cache
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.csproj.CoreCompileInputs.cache
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.csproj.CopyComplete
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.exe
+C:\Users\emrah.sumer\source\repos\CounterApi\KopitekCounter\obj\Debug\KopitekCounter.pdb
