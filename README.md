@@ -1,4 +1,4 @@
-**<meta name="google-site-verification" content="NYgLDg5XRMy9TSitLg5Ol7BL0VwCNKzbj7fQG1RK9dA" />**
+*<meta name="google-site-verification" content="NYgLDg5XRMy9TSitLg5Ol7BL0VwCNKzbj7fQG1RK9dA" />*
 # AutoCounter
 An automation for collecting printer counters and save with a rest api while listing the data on a react built web application
 This git has 4 projects
